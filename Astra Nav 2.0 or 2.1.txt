@@ -1,0 +1,22 @@
+A quick little note about the folders V2.0 and V2.1
+
+V2.0 is the 2025 version of the stick, I left it included just in case there was that odd person wanting to use the old version for whatever reason. Not sure why you would. If anything the only thing you may want to use is the angled extension mount which turns your grip sideways a little bit to emulate a throttle grip configuration. However, this is more of a gimmick at the moment as there is no twist axis in the grip as of yet.
+
+When I get around to coming up with a solution for the twist axis then it may be more viable, but I'll probably end up redoing the angled extension mount anyway so everything is balanced.
+
+The old grip design should work on the 2.1 Gimbal Base so if you absolutely had to use it, I'm pretty sure I designed the old version with the mini-DIN connector mount.
+
+
+V2.1 is the 2026 version. This has been the major update to CAMS, Grip ergonomics, Internal gimbal refinements, and a few other quality of life improvements.
+
+Also just a quick note, the parts list and the build guide are only applicable to V2.1. There will be some similarities to V2.0, but I ended up changing a few bits of hardware around.
+
+Dimensions of the gimbal base housing is also different to V2.0.
+
+I highly recommend you stay with V2.1.
+
+And if you have feedback on somethings you may want me to add or revise, let me know and I'll look into it.
+
+Thank you,
+
+Mica
